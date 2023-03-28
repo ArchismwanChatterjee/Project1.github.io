@@ -3,4 +3,6 @@
 Built the card using HTML,CSS
 Though the card is not responsive but tried ...
 
-[2023-03-29](https://user-images.githubusercontent.com/115975340/228337832-3f6919fc-1b61-4837-b29f-ef12eabcbcab.png)
+
+
+![2023-03-29](https://user-images.githubusercontent.com/115975340/228339319-7423f01b-0e3d-4cea-b897-9d4f2fc9f603.png)
